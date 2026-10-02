@@ -10,7 +10,6 @@
 
 ---
 
-- 💼 I'm currently working as a **Software Developer Co-op at IBM**
 - 🧠 I'm building **SpatialMind**, an object-centric visual memory system for persistent scene understanding
 - 👁️ I'm especially interested in **Computer Vision, Machine Learning, Robotics, and AI Systems**
 - 🤖 I'm currently expanding my skills in **robotics, perception, deployment, and intelligent automation**
@@ -22,10 +21,10 @@
 ## Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/aaggar68/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:anuragaggarwal0612@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email"/>
   </a>
 </p>
